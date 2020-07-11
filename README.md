@@ -6,7 +6,7 @@ I enjoy joining **customer success** and **developer relations** journeys, as we
 
 Besides my tech background, I am often looking forward to improving my **communication** and **leadership** skills. These links between technology and **people** have helped me to build solid **teamwork** experiences. :punch:
 
-You can also reach me on [LinkedIn](https://www.linkedin.com/in/ricardolsmendes), [Medium](medium.com/@ricardolsmendes), and [GitLab](gitlab.com/ricardomendes).
+You can also reach me on [LinkedIn](https://www.linkedin.com/in/ricardolsmendes), [Medium](https://www.medium.com/@ricardolsmendes), and [GitLab](https://www.gitlab.com/ricardomendes).
 
 <!--
 **ricardolsmendes/ricardolsmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
