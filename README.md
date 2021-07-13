@@ -1,6 +1,8 @@
 Hey there,
 
-I am **Ricardo Mendes**, a **Software Engineer** with over 18 years of expertise in architecture and coding. My technical background consists chiefly of Java and Python, Google Cloud and AWS, DevOps, Data Governance, and Metadata Management. As a lifelong learner, I’m **currently focused on taking my data engineering skills to a higher level**. :technologist:
+I am **Ricardo Mendes**, a **Software Engineer** with over 18 years of expertise in architecture and coding. My technical background consists chiefly of Java and Python, Google Cloud and AWS, DevOps, Data Governance, and Metadata Management. :technologist:
+
+A technical guy who takes people development seriously, always looking to practice engineering leadership from a people-first perspective.
 
 I enjoy customer-facing journeys and sharing knowledge. You can also reach me at [Medium](https://ricardolsmendes.medium.com), [GitLab](https://www.gitlab.com/ricardomendes), and [LinkedIn](https://www.linkedin.com/in/ricardolsmendes).
 
