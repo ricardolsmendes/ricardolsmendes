@@ -1,8 +1,11 @@
 Hey there,
+I am **Ricardo Mendes**.  
 
-I am **Ricardo Mendes**, a **Software Engineer** with over 19 years of expertise in architecture and coding :technologist:. My technical proficiency consists chiefly of Java, Python, Google Cloud, and DevOps. However, since 2019 I have been specializing in the data ecosystem: Data Governance, Metadata Management, and emerging fields such as Data Lineage, DataOps, and MLOps.
+For the past 20 years, I have worked on software development and consulting, playing in industries such as telco, mining, manufacturing, and, most recently, SaaS.
 
-I enjoy customer-facing roles, sharing knowledge, and I am always looking to practice engineering leadership from a people-first perspective.
+My technical background is chiefly based on Java, Python, Google Cloud, and DevOps. Since 2019, I have specialized in the data ecosystem: Data Governance, Metadata Management, Data Lineage, and emerging fields such as DataOps.
+
+Regarding behavior and soft skills, I perform better as a team player than an individual contributor, look to practice engineering leadership from a people-first perspective and enjoy customer-facing roles.
 
 ---
 You can also reach me on:  
