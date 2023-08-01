@@ -1,14 +1,14 @@
 Hey there,
 I am **Ricardo Mendes**.  
 
-I count on 20 years of software engineering and consulting expertise in industries such as telco, mining, manufacturing, and, most recently, SaaS.
+With over 20 years of software engineering and consulting experience across various industries, I have developed a passion for data and its potential to drive innovation and transformation.
 
-My technical background is chiefly based on Java, Python, Google Cloud, and DevOps. Since 2019, I have specialized in the data ecosystem: Data Governance, Metadata Management, Data Lineage, and emerging fields such as DataOps.
+My technical background includes Java, Python, Google Cloud, and DevOps, as well as Data Governance, Metadata Management, Data Lineage, and emerging fields such as DataOps and MLOps.
 
 Beyond the hard skills, I look to practice leadership from a people-first perspective and enjoy customer-facing roles.
 
 ---
-You can also reach me on:  
+You can also reach me at:  
 
 <a href="https://www.linkedin.com/in/ricardolsmendes" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
