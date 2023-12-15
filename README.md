@@ -3,9 +3,9 @@ I am **Ricardo Mendes**.
 
 With over 20 years of software engineering and consulting experience across various industries, I have developed a passion for data and its potential to drive innovation and transformation.
 
-My technical background includes Java, Python, Google Cloud, and DevOps, as well as Data Governance, Metadata Management, Data Lineage, and emerging fields such as DataOps and MLOps.
+I look to practice data leadership from a business outcome-first perspective and enjoy customer-facing roles.
 
-Beyond the hard skills, I look to practice leadership from a people-first perspective and enjoy customer-facing roles.
+My technical background includes Python, Java, Google Cloud, AWS, and DevOps, as well as Data Governance, Metadata Management, Data Lineage, and emerging fields such as DataOps and MLOps.
 
 ---
 You can also reach me at:  
