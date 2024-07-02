@@ -4,9 +4,9 @@ I am **Ricardo Mendes**.
 With over 20 years of consulting and software engineering experience across multiple industries, I have developed a passion for data and its potential to drive innovation. I now lead teams leveraging cutting-edge technologies to unlock business value from data, chiefly performing customer-facing roles.
 
 My technical background includes:
-- Data/ML solutions architecture in AWS and Google Cloud;
+- Data and AI solutions architecture in AWS and Google Cloud;
 - Data Governance and Observability implementation;
-- IaC, CI/CD, DevOps, DataOps, and MLOps;
+- DevOps, DataOps, MLOps, CI/CD, and IaC;
 - Python and Java programming.
 
 ---
