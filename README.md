@@ -1,7 +1,7 @@
 Hey there,
 I am **Ricardo Mendes**.  
 
-With over 20 years of consulting and software engineering experience across multiple industries, I have developed a keen interest in data and its potential to drive innovation. I now lead cross-functional teams to unlock business value from data, chiefly performing customer-facing roles.
+With over 20 years of experience in consulting and software engineering across various industries, I have developed a keen interest in data and its potential to drive business results. I currently lead multidisciplinary teams to help companies make more informed, data-driven decisions.
 
 My technical background includes:
 - Data and AI solutions architecture in Databricks, AWS, and Google Cloud;
