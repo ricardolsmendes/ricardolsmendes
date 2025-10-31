@@ -1,10 +1,10 @@
 Hey there,
 I am **Ricardo Mendes**.  
 
-With over 20 years of experience in consulting and software engineering across various industries, I have developed a keen interest in data and its potential to drive business results. For over half a decade, I've joined multidisciplinary teams that helped companies make more informed, data-driven decisions.
+With 20+ years of experience in consulting and software engineering across various industries, I have developed a keen interest in data and its potential to drive business results. For over half a decade, I've joined multidisciplinary teams that helped companies make more informed, data-driven decisions.
 
-My main areas of interest and expertise include:
-- Data and AI solutions architecture in Databricks, AWS, and Google Cloud;
+My areas of expertise include:
+- Data and AI solutions architecture in Databricks, AWS, Azure, and Google Cloud;
 - Data Governance and Observability;
 - DevOps, DataOps, and MLOps;
 - Python and Java programming.
