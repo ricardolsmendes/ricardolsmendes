@@ -1,11 +1,11 @@
 Hey there,
 I am **Ricardo Mendes**.  
 
-With 20+ years of experience in consulting and software engineering across various industries, I have developed a keen interest in Big Data, Analytics, Machine Learning, and, most recently, Generative AI, given their potential to drive business results. For over half a decade, I've joined multidisciplinary teams that help companies make more informed, data-driven decisions.
+With 20+ years of experience in consulting and software engineering across various industries, I have developed a keen interest in Big Data, Analytics, Machine Learning, and, most recently, Generative AI, given their potential to drive business results. For over half a decade, I've worked with multidisciplinary teams to help companies make more informed, data-driven decisions.
 
 My areas of expertise include:
 - Data and AI solutions architecture in Databricks, AWS, Azure, and Google Cloud;
-- Data Governance and Observability;
+- Data Governance, Data Quality, and Observability;
 - DevOps, DataOps, and MLOps;
 - Python and Java programming.
 
