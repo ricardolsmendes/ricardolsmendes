@@ -1,12 +1,14 @@
 Hey there,
 I am **Ricardo Mendes**.  
 
-With 20+ years of experience in consulting and software engineering across various industries, I have developed a keen interest in Big Data, Analytics, Machine Learning, and, most recently, Generative AI, given their potential to drive business results. For over half a decade, I've worked with multidisciplinary teams to overcome challenges and help companies make more informed, data-driven decisions.
+With over 20 years of IT consulting experience, I've been focused on bridging the gap between high-level strategy and daily operations for global leaders such as Google, Ericsson, PepsiCo, JLL, and Domino’s. By navigating complex organizational challenges, I create the cross-functional synergy required to deliver projects successfully.
+
+I am on a mission to align personal pragmatism with the modern need for performance improvement. By leveraging Big Data, Analytics, Machine Learning, and Generative AI, I help organizations move beyond intuition and make data-driven decisions.
 
 My areas of expertise include:
-- Data and AI solutions architecture in Databricks, AWS, Azure, and Google Cloud;
-- Data Governance, Data Quality, and Observability;
-- DevOps, DataOps, and MLOps.
+- Data & AI Solutions Architecture: Databricks, AWS, Azure, and Google Cloud.
+- Trust & Reliability: Data Governance, Data Quality, and Observability.
+- Engineering Excellence: DevOps, DataOps, and MLOps.
 
 ---
 You can also reach me at:  
