@@ -1,7 +1,7 @@
 Hey there,
 I am **Ricardo Mendes**.  
 
-With over 20 years of IT consulting experience, I've been focused on bridging the gap between high-level strategy and daily operations for global leaders such as Google, Ericsson, PepsiCo, JLL, and Domino’s. By navigating complex organizational challenges, I create the cross-functional synergy required to deliver projects successfully.
+With over 20 years of IT consulting experience, I've been focused on bridging the gap between high-level strategy and daily operations for global leaders such as Google, Ericsson, PepsiCo, JLL, and Domino’s. When navigating complex organizational challenges, I create the cross-functional synergy required to deliver projects successfully.
 
 I am on a mission to align personal pragmatism with the modern need for performance improvement. By leveraging Big Data, Analytics, Machine Learning, and Generative AI, I help organizations move beyond intuition and make data-driven decisions.
 
