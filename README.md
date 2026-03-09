@@ -6,6 +6,7 @@ With 20+ years in software development, and the last seven focused on Data & AI,
 I am on a mission to align personal pragmatism with the modern need for performance improvement, empowering organizations to move beyond intuition and make data-driven decisions. When facing complex organizational challenges, I create the cross-functional synergy that technical projects often lack.
 
 My areas of expertise include:
+- Data Strategy and Product Management.
 - Data & AI Solutions Architecture on Databricks, AWS, Azure, and Google Cloud.
 - Data Governance, Data Quality, and Observability implementation.
 - Engineering Excellence: DevOps, DataOps, and MLOps.
