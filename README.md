@@ -1,9 +1,9 @@
 Hey there,
 I am **Ricardo Mendes**.  
 
-With 20+ years in software development, and the last seven focused on Data & AI, I navigate the intersection of business strategy and technical execution. Throughout my career, I have delivered projects for global leaders such as Google, PepsiCo, and JLL.
+With 20+ years in software development, the last 7 focused on Data & AI, I navigate the intersection of business strategy and technical execution. Throughout my career, I have delivered projects for global leaders such as Google Cloud, PepsiCo, and JLL.
 
-I am on a mission to align personal pragmatism with the modern need for performance improvement, empowering organizations to move beyond intuition and make data-driven decisions. When facing complex organizational challenges, I create the cross-functional synergy that technical projects often lack.
+I am on a mission to align personal pragmatism with the modern need for performance improvement, empowering organizations to move beyond intuition and make data-driven decisions. To thrive at solving real-world problems, I build cross-functional collaboration that technical projects often lack.
 
 My areas of expertise include:
 - Data Strategy and Product Management.
