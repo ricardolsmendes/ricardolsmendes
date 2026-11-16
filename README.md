@@ -1,14 +1,15 @@
 Hey there,
 I am **Ricardo Mendes**.  
 
-With 20+ years in software development, and the last six focused on Data & AI, I navigate the intersection of business strategy and technical execution. My career includes delivering projects for global leaders such as Google, PepsiCo, and JLL.
+With 20+ years in software development, the last 7 focused on Data & AI, I navigate the intersection of business strategy and technical execution. Throughout my career, I have worked with global, distributed teams for industry leaders such as Google Cloud, PepsiCo, and JLL.
 
-I am on a mission to align personal pragmatism with the modern need for performance improvement, empowering organizations to move beyond intuition and make data-driven decisions. When facing complex organizational challenges, I create the cross-functional synergy that technical projects often lack.
+Driven by a pragmatic approach to helping data teams deliver tangible business value, I am equally comfortable in leadership and hands-on roles, building the cross-functional collaboration that technical projects often lack.
 
 My areas of expertise include:
-- Data & AI Solutions Architecture on Databricks, AWS, Azure, and Google Cloud.
+- Solutions Architecture on Databricks, AWS, and GCP.
 - Data Governance, Data Quality, and Observability implementation.
-- Engineering Excellence: DevOps, DataOps, and MLOps.
+- Engineering Excellence: DevOps, DataOps, MLOps, and reusable accelerators.
+- Data Strategy, Pre-Sales, and Product Management across multi-team enterprise transformations.
 
 ---
 You can also reach me at:  
